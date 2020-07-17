@@ -1,6 +1,8 @@
 Docker
 ====
 
+![Docker](docker-architecture.svg)
+
 ### Basics
 
 Separates infrastructure from applications.  
